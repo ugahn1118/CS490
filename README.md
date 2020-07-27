@@ -8,7 +8,7 @@ Developed an online exam system. The exam system will deal with only one type of
 
 Fully functional system supporting four use-cases:
 
-Instructor may add questions to a question bank.
-Instructor may select questions from the question bank to create an exam.
-Student may take exam, and (after Intructor releases scores).
-Student may check exam score and feedback.
+1.Instructor may add questions to a question bank.
+2.Instructor may select questions from the question bank to create an exam.
+3.Student may take exam, and (after Intructor releases scores).
+4.Student may check exam score and feedback.
